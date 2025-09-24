@@ -1,5 +1,9 @@
 # 系上器材租用系統
-
+##  團隊成員
+* 1112923 徐聖凱
+* 1112914 宋冠穎
+* 1112943 李彥達
+* 1112955 薛博徽
 ## 建置
 1. 安裝 XAMPP。(php >= 8.1.0)
 XAMPP: https://www.apachefriends.org/download.html
